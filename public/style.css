@@ -1,0 +1,60 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f7f7f7;
+  margin: 0;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  color: #333;
+}
+
+form {
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  display: inline-block;
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  margin-top: 10px;
+}
+
+input, select, textarea {
+  width: 250px;
+  padding: 6px;
+}
+
+button {
+  margin-top: 15px;
+  padding: 8px 15px;
+  cursor: pointer;
+  background: #333;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+a {
+  color: #333;
+  text-decoration: none;
+  margin: 10px;
+  display: inline-block;
+}
+
+#lista {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.usuario {
+  background: white;
+  padding: 10px;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
